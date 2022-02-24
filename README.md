@@ -1,2 +1,1 @@
-alx-prew course My first readme
-# test 
+my first readme
